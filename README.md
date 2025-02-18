@@ -1,6 +1,6 @@
 # AI-Lab-Experiments
 
-This repository contains Python implementations of various artificial intelligence (AI) problems and algorithms. Each task includes a Python script implementing the solution and an output image showing the results.
+This repository contains Python implementations of various artificial intelligence (AI) problems and algorithms which was done in Artificial Intelligence Lab in presence of Dr.K Nitalakshewara Rao. Each task includes a Python script implementing the solution and an output image showing the results.
 
 ## Tasks Overview
 
